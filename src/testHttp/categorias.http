@@ -1,8 +1,8 @@
 #@url = https://8080-marcoweb-apiquiz20242-us2tnb4btx5.ws-us116.gitpod.io
 
-@url = http://localhost:8080
+@url = https://8080-francielimr-apiquiz2024-otbxsa9pyhq.ws-us116.gitpod.io
 
-@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBUEkgUXVpenplcyIsInN1YiI6ImFkbWluIiwiZXhwIjoxNzMwNzQ3OTY0fQ.leWf1DV4lExlSyJiAOYxTVE1v5fudxN9TX7U4fHrvKc
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBUEkgUXVpenplcyIsInN1YiI6ImFkbWluIiwiZXhwIjoxNzMwODQzNTkxfQ.XndpS-VmFxykb-BL-e1NdNGchxVrYii3_XJSopUSH_w
 
 ###
 GET {{url}}/categorias

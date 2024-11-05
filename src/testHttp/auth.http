@@ -1,4 +1,4 @@
-@url = http://localhost:8080
+@url = https://8080-francielimr-apiquiz2024-otbxsa9pyhq.ws-us116.gitpod.io
 
 POST {{url}}/auth
 Content-Type: application/json
